@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Controlador","l":"controlador"},{"p":"Modelo","l":"modelo"},{"p":"Principal","l":"principal"},{"p":"Vista","l":"vistaLogo"}];updateSearchResults();
